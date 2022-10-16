@@ -13,7 +13,7 @@ public class Hangman {
             System.out.println("Menu:");
             System.out.println("1. Add Data");
             System.out.println("2. Look Data");
-            System.out.println("3. Game");
+            System.out.println("3. Play Game");
             System.out.println("4. Exit");
             System.out.print("Pilih Menu : ");
             pilihan = sc.nextInt();
