@@ -23,5 +23,9 @@ If the user selects the “Game” menu, then validate:
    - ii. Then display '-' the number of letters in the word that has been randomized
    - iii. Asks the user to enter a letter and checks if the letter is in the word, if there is a letter it will be displayed.
    
+   
+![image](https://user-images.githubusercontent.com/55536824/196027148-f78d5cb9-83cd-42ea-ae6f-6a0636bcb6ba.png)
+
+   
 ## 4. Exit
 If the user selects the “exit” menu, the program will be finished.
