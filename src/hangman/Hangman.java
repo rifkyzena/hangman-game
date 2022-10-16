@@ -142,7 +142,7 @@ public class Hangman {
             System.out.println("\n");
         } while(isContinue(strip, len));
         
-        System.out.println("Selamat!");
+        System.out.println("Congratulations!");
     }
     
 }
