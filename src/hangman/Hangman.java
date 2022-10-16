@@ -128,7 +128,7 @@ public class Hangman {
             
             if(!isAvail) {
                 System.out.println("");
-                System.out.println("Character of '"+ character +"' not found");
+                System.out.println("The character of '"+ character +"' doesn't exist in the sentence!");
                 System.out.println("");
             }
             
